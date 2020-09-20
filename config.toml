@@ -1,4 +1,4 @@
-baseURL = "https://rkum.in"
+baseURL = ""
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Ramesh Kumar"
@@ -21,8 +21,8 @@ profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 customCss = []
-customJs = []
-mainSections = ["about"]
+customJs = ["js/hello.js"]
+mainSections = ["post"]
 displayMode = "dark"
 #images = ["images/site-feature-image.png"]
 # Google Site Verification
